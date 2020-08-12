@@ -9,4 +9,4 @@ Experience :
 
 Website :
 - [Portfolio](http://rezaramadhanirianto.github.io)
-- [Linkedin](http://linkedin.com/rezaramadhanirianto)
+- [Linkedin](http://linkedin.com/in/rezaramadhanirianto)
