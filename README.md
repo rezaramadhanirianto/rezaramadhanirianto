@@ -8,5 +8,5 @@ Experience :
 - Web Developer Intern at PT. Nutrifood Indonesia.
 
 Website :
-- [Portfolio](rezaramadhanirianto.github.io)
-- [Linkedin](linkedin.com/rezaramadhanirianto)
+- [Portfolio](http://www.rezaramadhanirianto.github.io)
+- [Linkedin](http://www.linkedin.com/rezaramadhanirianto)
