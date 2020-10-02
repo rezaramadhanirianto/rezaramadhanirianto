@@ -5,7 +5,7 @@ Experience :
 
 - I’m currently working on [Inacom](http://inacom.id) as Mobile Developer.
 - IDcamp 2019 participants.
-- Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id).
+- Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id)
 
 Website :
 - [Portfolio](http://rezaramadhanirianto.github.io)
