@@ -4,7 +4,7 @@ I'm a Mobile Developer. I have experienced with Android App Development using Ko
 Experience : 
 
 - I’m currently working on [Inacom](http://inacom.id) as Mobile Developer.
-- IDcamp 2019 participants.
+- IDcamp 2019 participants
 - Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id).
 
 Website :
