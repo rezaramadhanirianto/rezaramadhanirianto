@@ -3,7 +3,7 @@
 I'm a Mobile Developer. I have experienced with Android App Development using Kotlin/Java, Architecture Pattern, and Flutter using BLoC. <br/>
 Experience : 
 
-- I’m currently working on PT.99 Media as Mobile Developer
+- I’m currently working on PT.99 Media as Mobile Developer.
 - IDcamp 2019 participants.
 - Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id).
 
