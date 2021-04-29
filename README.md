@@ -8,9 +8,15 @@ Experience :
 - IDcamp 2019 participants.
 - Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id)
 
-Website :
-- [Portfolio](http://rezaramadhanirianto.github.io)
-- [Linkedin](https://linkedin.com/in/reza-ramadhan-irianto-36b018182/)
+<p align='center'>
+<a href="https://rezaramadhanirianto.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio%20Website-%231DA1F2.svg?&style=for-the-badge&logo=internet&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/reza-ramadhan-irianto-36b018182/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
 
 #### Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rezaramadhanirianto)](https://github.com/anuraghazra/github-readme-stats)
