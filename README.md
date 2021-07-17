@@ -4,7 +4,7 @@ I'm a Mobile Developer. I have experienced with Android App Development using Ko
 Flutter using Business Logic Component(BLoc), IOS Swiftui using MVVM Architecture and VIPER Achitecture. <br/>
 Experiences : 
 
-- Coming Soon? Maybe.
+- Coming Soon? Maybe. 
 - I’m currently working on PT.99 Media as Mobile Developer.
 - IDcamp 2019 participants.
 - Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id)
