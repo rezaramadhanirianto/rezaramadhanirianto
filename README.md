@@ -4,7 +4,7 @@ I'm a Mobile Developer. I have experienced with Android App Development using Ko
 Flutter using Business Logic Component(BLoc), IOS Swiftui using MVVM Architecture and VIPER Achitecture. <br/>
 Experiences :  
  
-
+ 
 - Currently working as Android Developer at YesDok.
 - Mobile Developer at KBM App.
 - IDcamp 2019 participants.
