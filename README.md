@@ -5,7 +5,7 @@ Flutter using Business Logic Component(BLoc), IOS Swiftui using MVVM Architectur
 Experiences :       
     
 - Currently working as Android Developer at YesDok.
-- Mobile Developer and Backend Developer at KBM App.
+- Mobile and Backend Developer at KBM App.
 - IDcamp 2019 participant.
 - Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id)  
    
