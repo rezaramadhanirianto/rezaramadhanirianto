@@ -3,7 +3,7 @@
 I'm a Mobile Developer. I have experienced with Android App Development using Kotlin/Java and Architecture Pattern like MVVM and MVP,  
 Flutter using Business Logic Component(BLoc), IOS Swiftui using MVVM Architecture and VIPER Achitecture. <br/>  
 Experiences : 
-- Currently working as Android Developer at YesDok. 
+- Currently working as Android Developer at YesDok.  
 - Mobile and Backend Developer at KBM App.
 - IDcamp 2019 participant.
 - Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id)  
