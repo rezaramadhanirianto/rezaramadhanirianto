@@ -9,7 +9,7 @@ Experiences :
 - Web Developer Intern at [PT. Nutrifood Indonesia](http://nutrifood.co.id) 
      
 <p align='center'> 
-    <a href="https://rezaramadhanirianto.com/">  
+    <a href="http://rezaramadhanirianto.com/">  
        <img src="https://img.shields.io/badge/Portfolio%20Website-%231DA1F2.svg?&style=for-the-badge&logo=internet&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/rezaramadhanirianto/">
