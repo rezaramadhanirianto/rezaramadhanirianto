@@ -1,7 +1,6 @@
 #### Hi, I'm Reza Ramadhan Irianto 👋
  
-I'm a Mobile Developer. I have experienced with Android App Development using Kotlin/Java and Architecture Pattern like MVVM and MVP,  
-Flutter using Business Logic Component(BLoc), IOS Swiftui using MVVM Architecture and VIPER Achitecture. Currenty working at one of the biggest Video Platform In Indonesia.
+I'm a Mobile Developer. I have experienced with Android, Flutter, CodeIgniter, and Golang. Currenty working at one of the biggest Video Platform In Indonesia.
      
 <p align='center'> 
     <a href="http://rezaramadhanirianto.com/">  
