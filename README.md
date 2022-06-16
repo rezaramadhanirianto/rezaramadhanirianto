@@ -1,6 +1,4 @@
 #### Hi, I'm Reza Ramadhan Irianto 👋
- 
-I'm a Mobile Developer. I have experienced with Android, Flutter, CodeIgniter, and Golang. Currenty working at one of the biggest Video Platform In Indonesia.
      
 <p align='center'> 
     <a href="http://rezaramadhanirianto.com/">  
