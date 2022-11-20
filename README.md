@@ -1,4 +1,4 @@
-#### Hi, I'm Reza Ramadhan Irianto 👋
+#### .....
 <p> 
     <a href="http://rezaramadhanirianto.github.io/">  
        <img src="https://img.shields.io/badge/Portfolio%20Website-%231DA1F2.svg?&style=for-the-badge&logo=internet&logoColor=white" height="20"/>
